@@ -1,6 +1,6 @@
 {
   "name": "react-table",
-  "version": "6.11.5",
+  "version": "6.12.0",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
   "license": "MIT",
   "homepage": "https://github.com/tannerlinsley/react-table/tree/v6#readme",
@@ -44,13 +44,13 @@
   },
   "dependencies": {
     "@types/react-table": "^6.8.5",
-    "classnames": "^2.2.5",
+    "classnames": "^2.3.1",
     "react-is": "^16.8.1"
   },
   "peerDependencies": {
     "prop-types": "^15.7.0",
-    "react": "^16.x.x",
-    "react-dom": "^16.x.x"
+    "react": "^17.x.x",
+    "react-dom": "^17.x.x"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.0",
@@ -73,8 +73,8 @@
     "onchange": "^3.0.2",
     "postcss-cli": "^2.6.0",
     "prop-types": "^15.7.2",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-json-tree": "^0.10.9",
     "rimraf": "^2.6.1",
     "rollup": "^0.55.3",
