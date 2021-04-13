@@ -15,7 +15,7 @@
     "datagrid"
   ],
   "main": "lib/index.js",
-  "module": "es/index.js",
+  "module": "src/index.js",
   "files": [
     "src/",
     "es/",
